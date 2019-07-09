@@ -7,12 +7,12 @@
 fbind(a, b)
 }
 \arguments{
-\item{a}{a factor}
+\item{a}{a factor.}
 
-\item{b}{a factor}
+\item{b}{a factor.}
 }
 \value{
-a factor
+a factor.
 }
 \description{
 Bind two factors in a sensible way
